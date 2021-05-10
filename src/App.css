@@ -1,38 +1,137 @@
-.App {
+
+.jumbotron {
+  /* background-color: #f4511e; */
+  color: #ffffff;
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;    
+  font-family: 'Lora', serif;
+  background-image: url("../src/assets/img/hero_bkgd2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;  
+}
+
+.jumbotron-heading{
+  font-size: 3.25rem;
+  font-weight: 400;
+  line-height: 3.25rem;
+  margin-bottom: 2rem;
+  font-family: 'Lora', serif;
+  
+}
+
+/* .container-fluid {
+  padding: 0px 50px;  
+} */
+
+.logo {
+  font-size: 75px;
+  
+}
+
+/* header.masthead {
+  background-image: url("../src/assets/img/hero_bkgd.jpg");
+} */
+
+@media screen and (max-width: 768px) {
+  .col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+  }
+
+  
+} 
+
+@media screen and (min-width: 768px) {
+  .servicesTop {
+    margin-bottom: 20px;
+  }
+}
+
+.text-center {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* .portfolioContainer {
+  background-color: whitesmoke;
+} */
+
+.thumbnail {
+  padding: 0 0 15px 0;
+  border: none;
+  border-radius: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.carouselItem h4 {
+  font-size: 19px;
+  line-height: 1.375em;
+  font-weight:  400;
+  font-style: italic;
+  margin: 70px 0;  
 }
 
-.App-link {
-  color: #61dafb;
+.text-danger {
+  color: #dc3545 !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a.text-danger:hover, a.text-danger:focus {
+  color: #a71d2a !important;
+}
+
+section#contact form#contactForm p.help-block {
+  margin: 0;
+}
+
+
+
+#about {
+  background-color: whitesmoke;
+  font-family: 'Lora', serif;
+}
+
+#about h2 {
+  font-weight:bold;
+}
+
+#services {
+  font-family: 'Lora', serif;
+  margin-top: 20px;
+}
+
+#services h2 {
+  font-weight: bold;
+}
+
+/* .servicesTop {
+  margin-bottom: 20px;
+} */
+
+#portfolio {
+  font-family: 'Lora', serif;
+  margin-top: 20px;
+}
+
+#portfolio h2 {
+  font-weight: bold;
+}
+
+#carousel {
+  margin-top: 20px;
+}
+
+#contact {
+  font-family: 'Lora', serif;
+  margin-top: 20px
+}
+
+#contact h2 {
+  font-weight: bold; 
 }
