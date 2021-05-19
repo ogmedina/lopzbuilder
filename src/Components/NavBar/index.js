@@ -3,17 +3,17 @@ import Navbar from 'react-bootstrap/Navbar'
 import Container from 'react-bootstrap/Container'
 import Nav from 'react-bootstrap/Nav'
 import { scroller } from 'react-scroll';
-//import 'bootstrap/dist/css/bootstrap.min.css';
+import logo from './images/logo2.png';
 
 function Navigation() {
     return (
     <>
   <Navbar collapseOnSelect fixed="top" expand="lg" bg="dark" variant="dark">
   <Container>
-  <Navbar.Brand className="navbar-brand" href="/">Lópz Builder</Navbar.Brand>
+  <Navbar.Brand className="navbar-brand" href="/"><img src={logo} width="70" height ="30" className="d-inline-block align-top" alt="test" /></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
-    <Nav className="justify-content-end" style={{width: "100%"}}>
+    <Nav className="justify-content-end navbar" style={{width: "100%"}}>
       <Nav.Link onClick={() => scroller.scrollTo('about', {
           smooth: true,
           offset: -40,

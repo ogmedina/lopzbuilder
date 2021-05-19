@@ -5,7 +5,7 @@
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;    
-  font-family: 'Lora', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   background-image: url("../src/assets/img/hero_bkgd2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -17,28 +17,41 @@
   font-size: 3.25rem;
   font-weight: 400;
   line-height: 3.25rem;
-  margin-bottom: 2rem;
-  font-family: 'Lora', serif;
-  
+  margin-bottom: 7rem;
+  font-family: 'Source Sans Pro', sans-serif;  
 }
 
+.navbar {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.08rem;
+}
 /* .container-fluid {
   padding: 0px 50px;  
 } */
 
 .logo {
-  font-size: 75px;
-  
+  font-size: 75px;  
 }
 
+.aboutLogo {
+  width: 35%;
+  height: 100%;
+  /* margin-bottom: 10px; */
+}
 /* header.masthead {
   background-image: url("../src/assets/img/hero_bkgd.jpg");
 } */
 
+
+/* iPad Width is only 768px */
 @media screen and (max-width: 768px) {
   .col-sm-4 {
     text-align: center;
     margin: 25px 0;
+  }
+
+  .hideCol {
+    display: none;
   }
 
   
@@ -52,6 +65,11 @@
 
 .text-center {
   text-align: center;
+}
+
+.center{
+  text-align: center;
+  width: 100%
 }
 
 /* .portfolioContainer {
@@ -93,7 +111,7 @@ section#contact form#contactForm p.help-block {
 
 
 #about {
-  background-color: whitesmoke;
+  background-color: white;
   font-family: 'Lora', serif;
 }
 
@@ -103,7 +121,9 @@ section#contact form#contactForm p.help-block {
 
 #services {
   font-family: 'Lora', serif;
-  margin-top: 20px;
+  /* margin-top: 20px; */
+  background-color: #5278BD;
+  color: white;
 }
 
 #services h2 {
@@ -117,6 +137,7 @@ section#contact form#contactForm p.help-block {
 #portfolio {
   font-family: 'Lora', serif;
   margin-top: 20px;
+  
 }
 
 #portfolio h2 {
@@ -125,11 +146,16 @@ section#contact form#contactForm p.help-block {
 
 #carousel {
   margin-top: 20px;
+  background-color: #5278BD;
+  
+  
 }
 
 #contact {
   font-family: 'Lora', serif;
-  margin-top: 20px
+  margin-top: 20px;
+  background-color: #5278BD;
+  
 }
 
 #contact h2 {

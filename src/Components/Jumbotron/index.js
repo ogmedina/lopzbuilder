@@ -6,12 +6,14 @@ function JumboTron() {
         <>        
         <Jumbotron className="jumbotron">
         
-        <div className="jumbotron-heading text-uppercase text-center">Lópz Builder</div>        
+        <div className="jumbotron-heading text-uppercase text-center"></div>    
+            
         <p>
         <Button variant = "primary">Learn More</Button>
         </p>
         
         </Jumbotron>
+        
         </>
     )
 };
