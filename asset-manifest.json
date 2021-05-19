@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/lopzbuilder/static/css/main.33d6497e.chunk.css",
-    "main.js": "/lopzbuilder/static/js/main.b010e4d0.chunk.js",
-    "main.js.map": "/lopzbuilder/static/js/main.b010e4d0.chunk.js.map",
-    "runtime-main.js": "/lopzbuilder/static/js/runtime-main.1bc991eb.js",
-    "runtime-main.js.map": "/lopzbuilder/static/js/runtime-main.1bc991eb.js.map",
+    "main.css": "/lopzbuilder/static/css/main.61052101.chunk.css",
+    "main.js": "/lopzbuilder/static/js/main.59112414.chunk.js",
+    "main.js.map": "/lopzbuilder/static/js/main.59112414.chunk.js.map",
+    "runtime-main.js": "/lopzbuilder/static/js/runtime-main.0d98f40e.js",
+    "runtime-main.js.map": "/lopzbuilder/static/js/runtime-main.0d98f40e.js.map",
     "static/css/2.800be05e.chunk.css": "/lopzbuilder/static/css/2.800be05e.chunk.css",
-    "static/js/2.53b06447.chunk.js": "/lopzbuilder/static/js/2.53b06447.chunk.js",
-    "static/js/2.53b06447.chunk.js.map": "/lopzbuilder/static/js/2.53b06447.chunk.js.map",
-    "static/js/3.1a91d91d.chunk.js": "/lopzbuilder/static/js/3.1a91d91d.chunk.js",
-    "static/js/3.1a91d91d.chunk.js.map": "/lopzbuilder/static/js/3.1a91d91d.chunk.js.map",
+    "static/js/2.434c3546.chunk.js": "/lopzbuilder/static/js/2.434c3546.chunk.js",
+    "static/js/2.434c3546.chunk.js.map": "/lopzbuilder/static/js/2.434c3546.chunk.js.map",
+    "static/js/3.6c8d40c4.chunk.js": "/lopzbuilder/static/js/3.6c8d40c4.chunk.js",
+    "static/js/3.6c8d40c4.chunk.js.map": "/lopzbuilder/static/js/3.6c8d40c4.chunk.js.map",
     "index.html": "/lopzbuilder/index.html",
     "static/css/2.800be05e.chunk.css.map": "/lopzbuilder/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.33d6497e.chunk.css.map": "/lopzbuilder/static/css/main.33d6497e.chunk.css.map",
-    "static/js/2.53b06447.chunk.js.LICENSE.txt": "/lopzbuilder/static/js/2.53b06447.chunk.js.LICENSE.txt",
+    "static/css/main.61052101.chunk.css.map": "/lopzbuilder/static/css/main.61052101.chunk.css.map",
+    "static/js/2.434c3546.chunk.js.LICENSE.txt": "/lopzbuilder/static/js/2.434c3546.chunk.js.LICENSE.txt",
     "static/media/App.css": "/lopzbuilder/static/media/hero_bkgd2.71b025ca.jpg",
     "static/media/house_1.5900ce1e.jpg": "/lopzbuilder/static/media/house_1.5900ce1e.jpg",
     "static/media/house_2.30be8d7e.jpg": "/lopzbuilder/static/media/house_2.30be8d7e.jpg",
-    "static/media/house_4.db7fb3a3.jpg": "/lopzbuilder/static/media/house_4.db7fb3a3.jpg"
+    "static/media/house_4.db7fb3a3.jpg": "/lopzbuilder/static/media/house_4.db7fb3a3.jpg",
+    "static/media/logo.c85cfeee.png": "/lopzbuilder/static/media/logo.c85cfeee.png",
+    "static/media/logo2.53c39dba.png": "/lopzbuilder/static/media/logo2.53c39dba.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1bc991eb.js",
+    "static/js/runtime-main.0d98f40e.js",
     "static/css/2.800be05e.chunk.css",
-    "static/js/2.53b06447.chunk.js",
-    "static/css/main.33d6497e.chunk.css",
-    "static/js/main.b010e4d0.chunk.js"
+    "static/js/2.434c3546.chunk.js",
+    "static/css/main.61052101.chunk.css",
+    "static/js/main.59112414.chunk.js"
   ]
 }
