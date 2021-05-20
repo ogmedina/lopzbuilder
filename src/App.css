@@ -21,6 +21,88 @@
   font-family: 'Source Sans Pro', sans-serif;  
 }
 
+.jumboLogo {
+  /* height: 50%; */
+  /* width: 50%; */
+  background-color:black;
+  position:relative;
+  /* margin-right: 50px; */
+  /* float:left; */
+  /* padding-top: 6.5%; */
+  /* padding-bottom: 6.5%; */
+  /* margin: 2em auto; */
+  /* width: 16em; */
+  /* height: 9em; */ 
+  
+  outline:3px dotted white;
+  outline-offset:20px;
+  
+  border:50px solid transparent;
+  /* border-width:250px 50px 50px 50px; */
+  /* margin:-50px 0 0 0px; */
+  }
+
+  /* .imageBlock img {
+    position:relative;
+    padding-top: 6.5%;
+    padding-bottom: 6.5%;
+
+  }
+
+  .imageBlock span {
+    display: block;
+    position: relative;
+  }
+
+  .imageBlock span::before {
+    content: ' ';
+    display: block;
+    width: 22%;
+    height: 65%;
+    position: absolute;
+    left: -1.5%;
+    top: 14%;
+    background: #FEC606;
+  } */
+
+
+
+  @media (min-width: 1200px) {
+    .jumboLogo {
+      height: 30%;
+      width: 30%;
+   }   
+  }
+
+  @media (min-width: 992px) {
+    .jumboLogo {
+      height: 30%;
+      width: 30%;
+   }   
+  }
+
+  @media (min-width: 768px) {
+    .jumboLogo {
+      height: 40%;
+      width: 40%;
+   }
+  }
+  /* Portrait tablets and Large Phones */
+  @media (min-width: 600px) {
+    .jumboLogo {
+      height: 50%;
+      width: 50%;
+   }
+  }
+  /* Extra Small Devices */
+  @media (max-width: 600px) {
+   .jumboLogo {
+      height: 70%;
+      width: 70%;
+   }
+  }
+  
+
 .navbar {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1.08rem;
