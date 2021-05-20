@@ -11,8 +11,10 @@ function Portfolio() {
         <>
         <section id='portfolio'>
         <Container className="container-fluid text-center portfolioContainer">
-            <h2>Portfolio</h2>
-            <h4>Some great projects we have created</h4>
+            <div className="section-title-other">
+            <h2>Portfolio</h2>            
+            </div>
+            <br />
             <div className= "row text-center">
                 <div className="col-sm-4">
                     <div className="thumbnail">

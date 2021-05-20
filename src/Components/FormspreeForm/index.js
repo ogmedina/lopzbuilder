@@ -14,7 +14,10 @@ function FormspreeForm() {
         <>
         <section id='contact'>
         <Container>
+                <div className="section-title-other">
                 <h2 className="text-center">CONTACT</h2>
+                </div>
+                <br />
                 <div className="row">
                     <div className="col-sm-5">
                     <p>Contact us and we'll get back to you</p>                    

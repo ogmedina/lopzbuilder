@@ -14,7 +14,9 @@ function AboutCompany() {
         <section id="about">
             
         <br />
+        <div className="section-title">
         <h2 className="text-center">About Us</h2>
+        </div>
         <br />
         <Container fluid>
             <div className="row">

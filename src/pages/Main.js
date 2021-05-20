@@ -5,6 +5,7 @@ import Portfolio from '../Components/Portfolio/index';
 import CarouselText from '../Components/Carousel/index';
 import FormspreeForm from '../Components/FormspreeForm/index';
 import Navigation from '../Components/NavBar/index';
+import Footer from '../Components/Footer/index';
 
 
 
@@ -20,12 +21,7 @@ function Main() {
         <Portfolio />
         <CarouselText />
         <FormspreeForm />
-
-            
-
-
-
-
+        <Footer />
 
         </>
     );

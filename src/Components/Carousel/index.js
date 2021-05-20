@@ -7,7 +7,9 @@ function CarouselText() {
         <>
         <section className="carousel">
         <Container className="text-center">
-        <h2>What our customers say</h2>
+        <div className="section-title-other">
+        <h2>Testimony</h2>
+        </div>
         <Carousel fade>
             <Carousel.Item className="carouselItem">
             <h4>"This Company is awesome"<br /><span style={{fontStyle: "normal"}}>Michael Roe, Vice President, Comment Box</span></h4>

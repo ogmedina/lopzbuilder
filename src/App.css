@@ -108,56 +108,174 @@ section#contact form#contactForm p.help-block {
   margin: 0;
 }
 
-
+/* About Section ----------------------------------- */
 
 #about {
-  background-color: white;
+  background-color: #f3f5fa;
   font-family: 'Lora', serif;
-}
-
-#about h2 {
-  font-weight:bold;
 }
 
 #services {
-  font-family: 'Lora', serif;
-  /* margin-top: 20px; */
-  background-color: #5278BD;
-  color: white;
+  font-family: 'Lora', serif;  
 }
 
-#services h2 {
+.section-title {
+  text-align: center;
+  padding-bottom: 0px;  
+}
+
+.section-title h2 {
+  font-size: 32px;
   font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #37517e;
 }
 
-/* .servicesTop {
-  margin-bottom: 20px;
-} */
+.section-title h2::before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  background: #ddd;
+  bottom: 1px;
+  left: calc(50% - 60px);
+}
 
+.section-title h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #47b2e4;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
+
+.section-title p {
+  margin-bottom: 0;
+}
+
+/* ----------------------------------- */
+
+
+/* Services Section ----------------------------------- */
+
+.section-title-other {
+  text-align: center;
+  padding-bottom: 0px;
+  padding-top: 30px;  
+}
+
+.section-title-other h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #37517e;
+}
+
+.section-title-other h2::before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  background: #ddd;
+  bottom: 1px;
+  left: calc(50% - 60px);
+}
+
+.section-title-other h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #47b2e4;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
+
+.section-title-other p {
+  margin-bottom: 0;
+}
+
+/* ----------------------------------- */
+
+
+
+
+
+
+/* Portfolio Section ----------------------------------- */
 #portfolio {
   font-family: 'Lora', serif;
-  margin-top: 20px;
-  
+  padding-top: 20px;
+  background-color: #f3f5fa;
 }
 
 #portfolio h2 {
   font-weight: bold;
 }
 
+/* ----------------------------------- */
+
+/* Carousel Section ----------------------------------- */
 #carousel {
-  margin-top: 20px;
-  background-color: #5278BD;
-  
-  
+  padding-top: 20px;
+  background-color: #5278BD;  
 }
 
+/* ----------------------------------- */
+
+/* Contact Section ----------------------------------- */
 #contact {
   font-family: 'Lora', serif;
-  margin-top: 20px;
-  background-color: #5278BD;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  background-color: #f3f5fa;
   
 }
 
 #contact h2 {
   font-weight: bold; 
 }
+/* ----------------------------------- */
+
+/* Footer Section ----------------------------------- */
+#footer {
+  font-size: 15px;
+  background: #37517e;
+}
+
+#footer .copyright {
+  float: left;
+}
+
+#footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+}
+@media (max-width: 768px) {
+  #footer .footer-bottom {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  #footer .copyright, #footer .credits {
+    text-align: center;
+    float: none;
+  }
+  #footer .credits {
+    padding-top: 4px;
+  }
+}
+
+/* ----------------------------------- */

@@ -8,8 +8,10 @@ function ServicesOffered() {
         <>
         <section id='services'>
         <Container className="container-fluid text-center" >
+            <div className="section-title-other">
             <h2>Services</h2>
             <h4>Things you can always expect from us:</h4>
+            </div>
             <br />
             <div className = "row servicesTop">
                 <div className="col-sm-4">
