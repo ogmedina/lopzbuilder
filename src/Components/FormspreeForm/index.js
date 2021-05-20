@@ -19,7 +19,7 @@ function FormspreeForm() {
                 </div>
                 <br />
                 <div className="row">
-                    <div className="col-sm-5">
+                    <div className="col-sm-5 contactInfo">
                     <p>Contact us and we'll get back to you</p>                    
                     <p><i className="fas fa-map-marked-alt fa-2x"></i> San Antonio, TX</p>
                     <p><i className="fas fa-phone fa-2x"></i>(000)000-0000</p>
@@ -29,11 +29,11 @@ function FormspreeForm() {
                     <form id="contactForm" action="https://formspree.io/f/xqkwerlb" method="POST">
                     
                         <div className="row">                            
-                            <div className="col-sm-6 form-group">                            
+                            <div className="col-sm-6 form-group name">                            
                             <input className="form-control" id="name" name="name" placeholder="Name" type="text" required="required" data-validation-required-message="Please enter your name." />
                             <p className="help-block text-danger"></p>
                             </div>
-                            <div className="col-sm-6 form-group">
+                            <div className="col-sm-6 form-group email">
                                 <input className="form-control" id="email" name="email" placeholder="Email" type="email" required="required" data-validation-required-message="Please enter your email." />
                                 <p className="help-block text-danger"></p>
                             </div>

@@ -17,7 +17,7 @@ function ServicesOffered() {
                 <div className="col-sm-4">
                     {/* <FontAwesomeIcon icon = {faBriefcase} size="4x" color="blue" /> */}
                     <span className="fa-stack fa-4x center">
-                        <i className="far fa-circle fa-stack-2x text-success"></i>
+                        <i className="far fa-circle fa-stack-2x servicesBorder"></i>
                         <i className="fas fa-hard-hat fa-stack-1x fa-1x" ></i>
                     </span>
                     <h4>Safety</h4>
@@ -25,7 +25,7 @@ function ServicesOffered() {
                 </div>
                 <div className="col-sm-4">
                     <span className="fa-stack fa-4x center">
-                        <i className="far fa-circle fa-stack-2x text-success"></i>
+                        <i className="far fa-circle fa-stack-2x servicesBorder"></i>
                         <i className="fas fa-building fa-stack-1x fa-1x" ></i>
                     </span>
                     <h4>Quality</h4>
@@ -33,7 +33,7 @@ function ServicesOffered() {
                 </div>
                 <div className="col-sm-4">
                     <span className="fa-stack fa-4x center">
-                        <i className="far fa-circle fa-stack-2x text-success"></i>
+                        <i className="far fa-circle fa-stack-2x servicesBorder"></i>
                         <i className="fas fa-users fa-stack-1x fa-1x" ></i>
                     </span>
                     <h4>Customer Service</h4>
@@ -43,7 +43,7 @@ function ServicesOffered() {
             <div className="row servicesRow">
             <div className="col-sm-4">
                     <span className="fa-stack fa-4x center">
-                        <i className="far fa-circle fa-stack-2x text-success"></i>
+                        <i className="far fa-circle fa-stack-2x servicesBorder"></i>
                         <i className="fas fa-pencil-ruler fa-stack-1x fa-1x" ></i>
                     </span>
                 <h4>Integrity</h4>
@@ -51,7 +51,7 @@ function ServicesOffered() {
             </div>
             <div className="col-sm-4">
                     <span className="fa-stack fa-4x center">
-                        <i className="far fa-circle fa-stack-2x text-success"></i>
+                        <i className="far fa-circle fa-stack-2x servicesBorder"></i>
                         <i className="fas fa-certificate fa-stack-1x fa-1x" ></i>
                     </span>
                 <h4>Certified</h4>
@@ -59,7 +59,7 @@ function ServicesOffered() {
             </div>
             <div className="col-sm-4">
                     <span className="fa-stack fa-4x center">
-                        <i className="far fa-circle fa-stack-2x text-success"></i>
+                        <i className="far fa-circle fa-stack-2x servicesBorder"></i>
                         <i className="fas fa-hands-helping fa-stack-1x fa-1x" ></i>
                     </span>
                 <h4>Teamwork</h4>

@@ -8,9 +8,9 @@ function JumboTron() {
         
         <div className="jumbotron-heading text-uppercase text-center"></div>    
             
-        <p>
+        {/* <p>
         <Button variant = "primary">Learn More</Button>
-        </p>
+        </p> */}
         
         </Jumbotron>
         

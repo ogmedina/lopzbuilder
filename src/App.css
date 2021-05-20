@@ -207,6 +207,10 @@ section#contact form#contactForm p.help-block {
   margin-bottom: 0;
 }
 
+.servicesBorder {
+  color: #37517e;  
+}
+
 /* ----------------------------------- */
 
 
@@ -247,6 +251,27 @@ section#contact form#contactForm p.help-block {
 #contact h2 {
   font-weight: bold; 
 }
+
+.pull-right {
+  float: right;
+}
+
+@media screen and (max-width: 576px) {
+  .name {
+    padding-top: 10px;
+  }
+
+  .email {
+    padding-top: 20px;
+  }
+
+  .contactInfo {
+    text-align: center;
+  }
+
+ 
+  
+} 
 /* ----------------------------------- */
 
 /* Footer Section ----------------------------------- */
