@@ -24,7 +24,7 @@
 .jumboLogo {
   /* height: 50%; */
   /* width: 50%; */
-  background-color:black;
+  /* background-color:black; */
   position:relative;
   /* margin-right: 50px; */
   /* float:left; */
@@ -34,10 +34,10 @@
   /* width: 16em; */
   /* height: 9em; */ 
   
-  outline:3px dotted white;
-  outline-offset:20px;
+  outline:3px solid white;
+  outline-offset:30px;
   
-  border:50px solid transparent;
+  /* border:50px solid transparent; */
   /* border-width:250px 50px 50px 50px; */
   /* margin:-50px 0 0 0px; */
   }

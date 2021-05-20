@@ -1,6 +1,6 @@
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Button from 'react-bootstrap/Button';
-import logo from './images/logo2.png'
+import logo from './images/logo2_edit2.png'
 import Container from 'react-bootstrap/Container';
 
 function JumboTron() {
