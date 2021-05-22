@@ -7,7 +7,7 @@ function Footer() {
         <footer id="footer">
         <Container>
             <div className = "footer clearfix">
-                <div ClassName = "copyright">
+                <div className = "copyright">
                     &copy; Copyright <strong><span>Lopz Builder</span></strong>. All Rights Reserved 2021
                 </div>
             </div>

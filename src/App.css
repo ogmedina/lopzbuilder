@@ -383,6 +383,11 @@ section#contact form#contactForm p.help-block {
   #footer .credits {
     padding-top: 4px;
   }
+
+  .copyright {
+    float:none;
+    text-align:center;
+  }
 }
 
 /* ----------------------------------- */
