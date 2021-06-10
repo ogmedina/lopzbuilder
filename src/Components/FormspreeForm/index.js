@@ -1,13 +1,6 @@
 import React from 'react';
-// import { FormspreeProvider, useForm } from '@formspree/react';
 import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
-//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-//import { fasmapmarked } from '@fortawesome/free-solid-svg-icons';
-//import { famapmarkedalt } from '@fortawesome/fontawesome-free-solid'
-
-
-
 
 function FormspreeForm() {  
     return(

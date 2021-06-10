@@ -7,10 +7,6 @@ import FormspreeForm from '../Components/FormspreeForm/index';
 import Navigation from '../Components/NavBar/index';
 import Footer from '../Components/Footer/index';
 
-
-
-
-
 function Main() {
     return(
         <>
@@ -22,10 +18,8 @@ function Main() {
         <CarouselText />
         <FormspreeForm />
         <Footer />
-
         </>
     );
 };
-
 
 export default Main;

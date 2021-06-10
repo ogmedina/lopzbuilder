@@ -13,7 +13,6 @@ function App() {
         <Route exact path="/main" component={Main} />
         <Route exact component={NoMatch} />
       </Switch>
-    
     </div>
     </HashRouter>
   );

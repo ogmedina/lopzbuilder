@@ -2,7 +2,6 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import House1 from '../Portfolio/Images/house_1.jpg'
 import House2 from '../Portfolio/Images/house_2.jpg'
-//import House3 from '../Portfolio/Images/house_3.jpg'
 import House4 from '../Portfolio/Images/house_4.jpg'
 
 
@@ -39,8 +38,7 @@ function Portfolio() {
                 </div>
             </div>
         </Container>
-        </section>
-        
+        </section>        
         </>
     );
 };
