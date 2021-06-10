@@ -1,32 +1,29 @@
 {
   "files": {
-    "main.css": "/lopzbuilder/static/css/main.848c5113.chunk.css",
-    "main.js": "/lopzbuilder/static/js/main.b500a5ae.chunk.js",
-    "main.js.map": "/lopzbuilder/static/js/main.b500a5ae.chunk.js.map",
-    "runtime-main.js": "/lopzbuilder/static/js/runtime-main.0d98f40e.js",
-    "runtime-main.js.map": "/lopzbuilder/static/js/runtime-main.0d98f40e.js.map",
+    "main.css": "/lopzbuilder/static/css/main.196acdf1.chunk.css",
+    "main.js": "/lopzbuilder/static/js/main.5c81a96a.chunk.js",
+    "main.js.map": "/lopzbuilder/static/js/main.5c81a96a.chunk.js.map",
+    "runtime-main.js": "/lopzbuilder/static/js/runtime-main.fefea932.js",
+    "runtime-main.js.map": "/lopzbuilder/static/js/runtime-main.fefea932.js.map",
     "static/css/2.800be05e.chunk.css": "/lopzbuilder/static/css/2.800be05e.chunk.css",
-    "static/js/2.136095ea.chunk.js": "/lopzbuilder/static/js/2.136095ea.chunk.js",
-    "static/js/2.136095ea.chunk.js.map": "/lopzbuilder/static/js/2.136095ea.chunk.js.map",
-    "static/js/3.6c8d40c4.chunk.js": "/lopzbuilder/static/js/3.6c8d40c4.chunk.js",
-    "static/js/3.6c8d40c4.chunk.js.map": "/lopzbuilder/static/js/3.6c8d40c4.chunk.js.map",
+    "static/js/2.71d1404e.chunk.js": "/lopzbuilder/static/js/2.71d1404e.chunk.js",
+    "static/js/2.71d1404e.chunk.js.map": "/lopzbuilder/static/js/2.71d1404e.chunk.js.map",
     "index.html": "/lopzbuilder/index.html",
     "static/css/2.800be05e.chunk.css.map": "/lopzbuilder/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.848c5113.chunk.css.map": "/lopzbuilder/static/css/main.848c5113.chunk.css.map",
-    "static/js/2.136095ea.chunk.js.LICENSE.txt": "/lopzbuilder/static/js/2.136095ea.chunk.js.LICENSE.txt",
+    "static/css/main.196acdf1.chunk.css.map": "/lopzbuilder/static/css/main.196acdf1.chunk.css.map",
+    "static/js/2.71d1404e.chunk.js.LICENSE.txt": "/lopzbuilder/static/js/2.71d1404e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/lopzbuilder/static/media/hero_bkgd2.71b025ca.jpg",
     "static/media/house_1.5900ce1e.jpg": "/lopzbuilder/static/media/house_1.5900ce1e.jpg",
     "static/media/house_2.30be8d7e.jpg": "/lopzbuilder/static/media/house_2.30be8d7e.jpg",
     "static/media/house_4.db7fb3a3.jpg": "/lopzbuilder/static/media/house_4.db7fb3a3.jpg",
-    "static/media/logo.c85cfeee.png": "/lopzbuilder/static/media/logo.c85cfeee.png",
     "static/media/logo2.53c39dba.png": "/lopzbuilder/static/media/logo2.53c39dba.png",
     "static/media/logo2_edit2.b736ba22.png": "/lopzbuilder/static/media/logo2_edit2.b736ba22.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d98f40e.js",
+    "static/js/runtime-main.fefea932.js",
     "static/css/2.800be05e.chunk.css",
-    "static/js/2.136095ea.chunk.js",
-    "static/css/main.848c5113.chunk.css",
-    "static/js/main.b500a5ae.chunk.js"
+    "static/js/2.71d1404e.chunk.js",
+    "static/css/main.196acdf1.chunk.css",
+    "static/js/main.5c81a96a.chunk.js"
   ]
 }
