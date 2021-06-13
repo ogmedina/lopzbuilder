@@ -1,12 +1,12 @@
 import './App.css';
-import { HashRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Main from "./pages/Main";
 import NoMatch from "./pages/NoMatch";
 
 
 function App() {
   return (
-    <HashRouter>
+    <Router>
     <div className="App">
       <Switch>
         <Route exact path="/" component={Main} />
@@ -14,7 +14,7 @@ function App() {
         <Route exact component={NoMatch} />
       </Switch>
     </div>
-    </HashRouter>
+    </Router>
   );
 }
 
