@@ -16,7 +16,7 @@ function FormspreeForm() {
                     <p>Contact us and we'll get back to you</p>                    
                     <p><i className="fas fa-map-marked-alt fa-2x"></i> San Antonio, TX</p>
                     <p><i className="fas fa-phone fa-2x"></i>(210) 414-0162</p>
-                    <p><i className="fas fa-envelope-open-text fa-2x"></i> lopz777@hotmail.com</p>
+                    <p><i className="fas fa-envelope-open-text fa-2x"></i> robert@lopzbuilder.com</p>
                     </div>
                     <div className="col-sm-7">
                     <form id="contactForm" action="https://formspree.io/f/xqkwerlb" method="POST">
