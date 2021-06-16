@@ -10,7 +10,7 @@ function Navigation() {
     <>
     <Navbar collapseOnSelect fixed="top" expand="lg" bg="dark" variant="dark">
     <Container>
-      <Navbar.Brand className="navbar-brand" href="/"><img src={logo} width="70" height ="30" className="d-inline-block align-top" alt="test" /></Navbar.Brand>
+      <Navbar.Brand className="navbar-brand" href="/"><img src={logo} width="70" height ="30" className="d-inline-block align-top" alt="lopzbuilders" /></Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="justify-content-end navbar" style={{width: "100%"}}>
